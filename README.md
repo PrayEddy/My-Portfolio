@@ -97,7 +97,7 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[I'll improve sylings.]**
+- [ ] **[I'll improve sylings]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
