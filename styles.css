@@ -94,6 +94,7 @@ a {
 
 #works {
   margin: 0 24px;
+
 }
 
 .container {
@@ -549,6 +550,9 @@ input:focus {
     display: flex;
     gap: 32px;
   }
+.nav-list span {
+  cursor: pointer;
+}
 
   .hamburger {
     display: none;
